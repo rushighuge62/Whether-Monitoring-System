@@ -89,3 +89,9 @@ Connect the pins according to following pairs below:
 * Adjust data logging intervals as per project requirements.
 * Optimize power usage for battery-operated deployments.
 
+##Libraries Download Link
+WI-Fi library — https://drive.google.com/file/d/1b-tHjcqBHVCgQKabdR19iGmo4E-pa2mW/view
+BMP180 library — https://drive.google.com/file/d/13OHLngN2ch8kMRjZ00Bj5nVXEiSlKTv-/view
+DHT11 library — https://drive.google.com/file/d/1WfPyrxBRIHBOUJDkxwLOpTCDyQJqNPPN/view
+
+
